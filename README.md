@@ -1,5 +1,5 @@
 ### Hi there 👋
-![youny's GitHub stats](https://life-progress-bar.vercel.app/api/?username=yu2yu&hide=day,week,month,year&show_icons=true&theme=radical)
+![youny's GitHub stats](https://life-progress-bar.vercel.app/api/?username=yu2yu&hide=day,week,month,year&show_icons=true&theme=synthwave)
 
 <!--
 **yu2yu/yu2yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
